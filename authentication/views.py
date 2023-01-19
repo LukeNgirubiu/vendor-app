@@ -45,15 +45,8 @@ class UsersView(generics.GenericAPIView):
 def AllUsers(request):
     users=User.objects.all()
     serialize=UserShowSerializer(users,many=True)
-    #UserShowSerializer(data=users,many=True) This is wrong applicable with post and put
     return Response(data=serialize.data,status=status.HTTP_200_OK)
-@api_view(['GET'])
-def working(request):
-    users=User.objects.all()
-    serialize=UserShowSerializer(users,many=True)
-    print(f"Data is here out {serialize.data}")
-    return Response(data=serialize.data,status=status.HTTP_200_OK)
-
+#
 
 
    
