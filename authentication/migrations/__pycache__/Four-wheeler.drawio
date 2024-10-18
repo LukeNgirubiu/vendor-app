@@ -127,7 +127,7 @@
             <mxPoint x="400" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YWdnATY_XIa_izMxKFCN-22" value="Text" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YWdnATY_XIa_izMxKFCN-22" value="&lt;font face=&quot;Verdana&quot;&gt;Signature entry&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="490" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
