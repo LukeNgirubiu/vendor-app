@@ -87,26 +87,23 @@
         </mxCell>
         <mxCell id="YWdnATY_XIa_izMxKFCN-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="320" as="sourcePoint" />
-            <mxPoint x="400" y="320" as="targetPoint" />
+            <mxPoint x="560" y="340" as="sourcePoint" />
+            <mxPoint x="400" y="340" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="YWdnATY_XIa_izMxKFCN-12" value="&lt;font face=&quot;Verdana&quot;&gt;Notifications&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="425" y="300" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YWdnATY_XIa_izMxKFCN-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="400" as="sourcePoint" />
-            <mxPoint x="240" y="400" as="targetPoint" />
+            <mxPoint x="560" y="390" as="sourcePoint" />
+            <mxPoint x="240" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YWdnATY_XIa_izMxKFCN-14" value="Tracking sms" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="440" y="380" width="100" height="30" as="geometry" />
+          <mxGeometry x="440" y="360" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YWdnATY_XIa_izMxKFCN-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="360" as="sourcePoint" />
-            <mxPoint x="720" y="360" as="targetPoint" />
+            <mxPoint x="560" y="370" as="sourcePoint" />
+            <mxPoint x="720" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YWdnATY_XIa_izMxKFCN-16" value="&lt;font face=&quot;Verdana&quot;&gt;Email Notification&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -163,8 +160,11 @@
             <mxPoint x="560" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YWdnATY_XIa_izMxKFCN-31" value="Text" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YWdnATY_XIa_izMxKFCN-31" value="Attach the&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YWdnATY_XIa_izMxKFCN-12" value="&lt;font face=&quot;Verdana&quot;&gt;Notifications&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="310" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
