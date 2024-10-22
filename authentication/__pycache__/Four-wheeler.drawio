@@ -4,11 +4,50 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RlkcewKYQu9XTbAVP8YR-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="RlkcewKYQu9XTbAVP8YR-1" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" as="sourcePoint" />
             <mxPoint x="120" y="-720" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RlkcewKYQu9XTbAVP8YR-2" value="&lt;b&gt;CRM&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-740" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RlkcewKYQu9XTbAVP8YR-3" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="1.3333740234375" as="sourcePoint" />
+            <mxPoint x="280" y="-720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RlkcewKYQu9XTbAVP8YR-4" value="&lt;b&gt;Customer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-740" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RlkcewKYQu9XTbAVP8YR-5" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" as="sourcePoint" />
+            <mxPoint x="520" y="-720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RlkcewKYQu9XTbAVP8YR-6" value="&lt;b&gt;Four-wheeler app&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-740" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RlkcewKYQu9XTbAVP8YR-7" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="1.33331298828125" as="sourcePoint" />
+            <mxPoint x="760" y="-720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RlkcewKYQu9XTbAVP8YR-8" value="&lt;b&gt;Operations&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-740" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RlkcewKYQu9XTbAVP8YR-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="-640" as="sourcePoint" />
+            <mxPoint x="520" y="-640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RlkcewKYQu9XTbAVP8YR-10" value="Data from CRMS" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-670" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
