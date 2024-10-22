@@ -87,7 +87,7 @@
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-24" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="-720" as="sourcePoint" />
+            <mxPoint x="556" y="-717" as="sourcePoint" />
             <mxPoint x="360" y="-720" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
@@ -101,7 +101,7 @@
         <mxCell id="RlkcewKYQu9XTbAVP8YR-32" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="-560" as="sourcePoint" />
-            <mxPoint x="560" y="-560" as="targetPoint" />
+            <mxPoint x="557" y="-560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-33" value="&lt;font face=&quot;Verdana&quot;&gt;Updating riders position&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -119,13 +119,13 @@
         <mxCell id="RlkcewKYQu9XTbAVP8YR-47" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="-480" as="sourcePoint" />
-            <mxPoint x="560" y="-480" as="targetPoint" />
+            <mxPoint x="557" y="-480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-49" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="355" y="-400" as="sourcePoint" />
-            <mxPoint x="115" y="-400" as="targetPoint" />
+            <mxPoint x="360" y="-401" as="sourcePoint" />
+            <mxPoint x="120" y="-401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-53" value="&lt;font face=&quot;Verdana&quot;&gt;Signatures request&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -151,12 +151,12 @@
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-60" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="-240" as="sourcePoint" />
-            <mxPoint x="560" y="-240" as="targetPoint" />
+            <mxPoint x="357" y="-238" as="sourcePoint" />
+            <mxPoint x="557" y="-236" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-61" value="Signature inputs from mobile app" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="389" y="-290" width="161" height="50" as="geometry" />
+          <mxGeometry x="384" y="-278" width="161" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-63" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -187,7 +187,7 @@
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-73" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="-640" as="sourcePoint" />
+            <mxPoint x="557" y="-642" as="sourcePoint" />
             <mxPoint x="120" y="-640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
