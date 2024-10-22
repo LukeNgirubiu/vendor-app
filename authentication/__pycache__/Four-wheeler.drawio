@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-8" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;Operations&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="710" y="-1100" width="80" height="30" as="geometry" />
+          <mxGeometry x="692" y="-1100" width="103" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -111,10 +111,10 @@
           <mxGeometry x="395" y="-500" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-44" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Driver&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="330" y="-1100" width="60" height="30" as="geometry" />
+          <mxGeometry x="323" y="-1100" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-45" value="Customer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="100" y="-1100" width="87" height="30" as="geometry" />
+          <mxGeometry x="92" y="-1100" width="87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-47" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
