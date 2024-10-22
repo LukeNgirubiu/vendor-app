@@ -39,17 +39,17 @@
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="-1020" as="sourcePoint" />
-            <mxPoint x="560" y="-1020" as="targetPoint" />
+            <mxPoint x="39" y="-977" as="sourcePoint" />
+            <mxPoint x="559" y="-977" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-10" value="&lt;font face=&quot;Verdana&quot;&gt;Data from CRMS&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="410" y="-1040" width="120" height="30" as="geometry" />
+          <mxGeometry x="409" y="-999" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="-1000" as="sourcePoint" />
-            <mxPoint x="555" y="-1000" as="targetPoint" />
+            <mxPoint x="760" y="-1013" as="sourcePoint" />
+            <mxPoint x="555" y="-1013" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-18" value="&lt;font face=&quot;Verdana&quot;&gt;Schedules creation&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="582.5" y="-1020" width="145" height="30" as="geometry" />
+          <mxGeometry x="585" y="-1034" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-19" value="&lt;font face=&quot;Verdana&quot;&gt;Attach Geo-cordinates&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="585" y="-940" width="140" height="30" as="geometry" />
