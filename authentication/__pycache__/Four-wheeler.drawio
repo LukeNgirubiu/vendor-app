@@ -1,12 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="GOdSq4zZK_xezIgQwfRh">
-    <mxGraphModel dx="794" dy="1273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RlkcewKYQu9XTbAVP8YR-1" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="120" as="sourcePoint" />
+            <mxPoint x="40" y="200" as="sourcePoint" />
             <mxPoint x="40" y="-720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -15,13 +15,13 @@
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-3" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="120" as="sourcePoint" />
+            <mxPoint x="360" y="200" as="sourcePoint" />
             <mxPoint x="360" y="-720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-5" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="120" as="sourcePoint" />
+            <mxPoint x="560" y="200" as="sourcePoint" />
             <mxPoint x="560" y="-710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -30,7 +30,7 @@
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-7" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="120" as="sourcePoint" />
+            <mxPoint x="760" y="200" as="sourcePoint" />
             <mxPoint x="760" y="-720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -94,12 +94,6 @@
             <mxPoint x="760" y="-280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RlkcewKYQu9XTbAVP8YR-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="-240" as="sourcePoint" />
-            <mxPoint x="40" y="-240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-27" value="Notifications" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="410" y="-340" width="110" height="30" as="geometry" />
         </mxCell>
@@ -118,12 +112,6 @@
         <mxCell id="RlkcewKYQu9XTbAVP8YR-33" value="&lt;font face=&quot;Verdana&quot;&gt;Updating riders position&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="375" y="-190" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RlkcewKYQu9XTbAVP8YR-39" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="120" as="sourcePoint" />
-            <mxPoint x="210" y="-720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-43" value="Off-loading" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="390" y="-110" width="130" height="30" as="geometry" />
         </mxCell>
@@ -131,7 +119,7 @@
           <mxGeometry x="330" y="-740" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-45" value="Customer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="180" y="-740" width="60" height="30" as="geometry" />
+          <mxGeometry x="110" y="-740" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -142,11 +130,50 @@
         <mxCell id="RlkcewKYQu9XTbAVP8YR-49" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="360" y="-40" as="sourcePoint" />
-            <mxPoint x="200" y="-40" as="targetPoint" />
+            <mxPoint x="120" y="-40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-53" value="&lt;font face=&quot;Verdana&quot;&gt;Signatures request&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-80" width="140" height="30" as="geometry" />
+          <mxGeometry x="160" y="-60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RlkcewKYQu9XTbAVP8YR-54" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="40" as="sourcePoint" />
+            <mxPoint x="360" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RlkcewKYQu9XTbAVP8YR-55" value="&lt;font face=&quot;Verdana&quot;&gt;Entry of signature&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RlkcewKYQu9XTbAVP8YR-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="-240" as="sourcePoint" />
+            <mxPoint x="120" y="-240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RlkcewKYQu9XTbAVP8YR-59" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="201.333251953125" as="sourcePoint" />
+            <mxPoint x="120" y="-720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RlkcewKYQu9XTbAVP8YR-60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="80" as="sourcePoint" />
+            <mxPoint x="560" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RlkcewKYQu9XTbAVP8YR-61" value="Signature inputs from mobile app" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="389" y="30" width="146" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RlkcewKYQu9XTbAVP8YR-63" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="130" as="sourcePoint" />
+            <mxPoint x="120" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RlkcewKYQu9XTbAVP8YR-64" value="&lt;font face=&quot;Verdana&quot;&gt;Request for delivery code&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
