@@ -22,11 +22,11 @@
         <mxCell id="RlkcewKYQu9XTbAVP8YR-5" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="200" as="sourcePoint" />
-            <mxPoint x="560" y="-710" as="targetPoint" />
+            <mxPoint x="560" y="-720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-6" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;Four-wheeler app&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-730" width="160" height="30" as="geometry" />
+          <mxGeometry x="470" y="-740" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RlkcewKYQu9XTbAVP8YR-7" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
